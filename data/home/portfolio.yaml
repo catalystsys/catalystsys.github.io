@@ -1,0 +1,57 @@
+enabled: false
+id: "portfolio"
+
+content:
+  - image: "images/ewis.png"
+    pretitle: "Technical Leader"
+    title: "Muhammed Ewis"
+    location: "Riyadh, Saudi Arabia"
+    text: "Muhammed Ewis is a seasoned CRM professional with a diverse background in customer relationship management and software development. With experience at prestigious organizations like The Saudi Investment Bank, Vodafone Senior Dynamics, ITWORX, and the Ministry of Human Resources and Emiratisation, Ewis has consistently shown a deep understanding of CRM systems and a talent for innovative solutions. He is committed to delivering results that drive business success and customer satisfaction."
+
+
+  - image: "images/abdallah.png"
+    pretitle: "Business Analyst and Technical Leader"
+    title: "Abdllah Taher"
+    location: "Cairo, Egypt"
+    text: "Abdallah Taher, a dynamic professional at the forefront of driving technological innovation and strategic business analysis. With an illustrious career journey, Abdallah has consistently demonstrated expertise in deciphering complex business challenges and translating them into cutting-edge tech solutions."
+
+
+
+
+  - image: "images/manal.png"
+    pretitle: "Software Developer"
+    title: "Manal Baddag"
+    location: "Rabat, Morocco"
+    text: "Manal is an accomplished professional with a strong background in Salesforce development and administration. Manal is skilled in harnessing the power of Salesforce to create tailored solutions that drive business growth and streamline processes."
+
+
+    # buttons:
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  #   buttons:
+  #     - label: "See live"
+  #       url: "#"
+
+  #     - label: "Read more"
+  #       url: "#"
+
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  #   buttons:
+  #     - label: "See live"
+  #       url: "#"
+
+  #     - label: "Read more"
+  #       url: "#"

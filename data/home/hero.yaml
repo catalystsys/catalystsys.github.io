@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "How to **level up** your business"
+  text: "Elevate your business's potential with advanced crm and web services
+  solutions. Experience a transformational journey for your business with
+  catalyst systems. We specialize in crafting tailored crm and web services
+  solutions that align perfectly with your objectives, enabling you to soar to
+  new heights of prosperity."
+
+  buttonPrimary:
+    label: "Let's talk"
+    url: "https://wa.me/+966536718131"
+

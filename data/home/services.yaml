@@ -1,0 +1,31 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  text: "Discover how Catalyst Systems can transform your business with our comprehensive services."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Web development"
+      text: "Elevate your online presence with Catalyst Systems. We create engaging web solutions, from stunning websites to custom applications, delivering captivating digital experiences.
+
+"
+      button:
+        label: "Connect now"
+        url: "https://wa.me/+966536718131"
+
+    - image: "images/crm.png"
+      title: "CRM Development"
+      text: "Propel your business with Catalyst Systems' CRM solutions. Streamline processes, gain actionable insights, and boost customer relationships for revenue growth.
+
+"
+      button:
+        label: "Connect now"
+        url: "https://wa.me/+966536718131"
+
+    - image: "images/digt.png"
+      title: "Digitalization and Automation"
+      text: "Embrace the digital age with us. We automate, optimize, and analyze, positioning your business for sustainable success in the digital landscape."
+      button:
+        label: "Connect now"
+        url: "https://wa.me/+966536718131"

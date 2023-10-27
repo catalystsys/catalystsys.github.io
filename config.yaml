@@ -1,0 +1,82 @@
+baseURL: "https://catalystsys.github.io/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Catalyst Systems"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Catalyst Systems"
+  description: "Empowering Businesses with Seamless CRM Integration and Web Services Development."
+  images: 
+    - "images/hero-imag.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    # dribbble: "#"
+    # instagram: "#"
+    # facebook: "#"
+    # twitter: "#"
+
+  location:
+    - "20 King Abdullah Dist. Riyadh, Saudi Arabia"
+
+  contact:
+    - "catalyst@engineer.com"
+    - "+966 53 671 8131"
+
+  copyright: "© 2023 Catalyst Systems All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    # - name: "How we work"
+    #   url: "/#"
+    #   weight: 2
+
+    - name: "Our team"
+      url: "/#team"
+      weight: 3
+
+  buttons:
+    - name: "Let's talk"
+      url: "https://wa.me/+966536718131"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    # - name: "How we work"
+    #   url: "/#"
+    #   weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
+
+    # - name: "Blog"
+    #   url: "/blog"
+    #   weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"

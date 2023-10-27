@@ -1,0 +1,12 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Meet our team"
+  quote: "A company is not defined by its products or services; it is a reflection of the strength, dedication, and unity of its team. The true essence of success lies in the people who come together to make a vision a reality."
+  items:
+    # - "images/brands-samsumg.png"
+    # - "images/brands-google.png"
+    # - "images/brands-adobe.png"
+    # - "images/brands-spotify.png"
+    # - "images/brands-dropbox.png"
