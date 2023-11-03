@@ -1,0 +1,99 @@
+body {
+  background-image: url("ap.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.tit {
+  color: lightyellow;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 200px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a text shadow for depth */
+  letter-spacing: 2px; /* Adjust letter spacing for style */
+  line-height: 1.2; /* Adjust line height for better readability */
+  text-transform: uppercase; /* Convert text to uppercase */
+}
+
+.de {
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a text shadow for depth */
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.fancy-title {
+  font-family: "Cursive", sans-serif; /* Use a cursive font */
+  font-size: 48px; /* Adjust the font size as needed */
+  color: #ff5733; /* Set the text color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a text shadow for depth */
+  letter-spacing: 2px; /* Adjust letter spacing for style */
+  line-height: 1.2; /* Adjust line height for better readability */
+}
+
+/* Add hover effect */
+.fancy-title:hover {
+  color: #ffa500; /* Change text color on hover */
+  transform: scale(1.1); /* Scale the text on hover for a subtle effect */
+}
+
+/* Define a background gradient for the title */
+.fancy-title-container {
+  background: linear-gradient(
+    45deg,
+    #00a3e0,
+    #4acbb0
+  ); /* Use a gradient background */
+  padding: 20px; /* Add some padding for spacing */
+  display: inline-block; /* Make it an inline block to center horizontally */
+  border-radius: 10px; /* Add rounded corners */
+}
+
+/* Center the title text within the container */
+.fancy-title-text {
+  text-align: center;
+}
+
+/* Style the contact us section */
+.contact-section {
+  background-color: #f4f4f4; /* Set the background color */
+  padding: 40px; /* Add padding for spacing */
+  text-align: center; /* Center align the content */
+}
+
+/* Style the "Contact Us" heading */
+.contact-heading {
+  font-size: 24px; /* Set the font size for the heading */
+  color: #333; /* Set the text color */
+  margin-bottom: 20px; /* Add spacing at the bottom */
+}
+
+/* Style the phone number */
+.phone-number {
+  font-size: 32px; /* Set the font size for the phone number */
+  font-weight: bold;
+  color: #007bff; /* Set the phone number color */
+}
+
+/* Style the phone number on hover (optional) */
+.phone-number:hover {
+  text-decoration: underline; /* Add an underline on hover */
+}
+
+/* Style a container for the phone number (optional) */
+.phone-container {
+  background-color: #fff; /* Set a white background for the phone number container */
+  padding: 10px; /* Add padding for spacing */
+  border-radius: 5px; /* Add rounded corners */
+  display: inline-block; /* Make it an inline block for better positioning */
+}
+
+.phone-container-bo-bg {
+  padding: 10px; /* Add padding for spacing */
+  font-size: 40px;
+  border-radius: 5px; /* Add rounded corners */
+  display: inline-block; /* Make it an inline block for better positioning */
+}
